@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/489.8e85ea39.chunk.css","mappings":"AAAA,WACI,SAAU,CCAd,aACI,iBAAkB","sources":["views/Settings/Settings.scss","containers/DefaultLayout/Header.scss"],"sourcesContent":[".error-msg {\n    color: red;\n}","\n.right-coner{\n    margin-right: 50px;\n}"],"names":[],"sourceRoot":""}
